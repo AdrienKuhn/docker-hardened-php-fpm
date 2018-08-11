@@ -42,6 +42,4 @@ session.use_only_cookies        = 1
 session.use_trans_sid           = 0
 track_errors                    = Off
 upload_max_filesize             = 2M
-variables_order                 = "GPSE"
-
 ```
